@@ -1,2 +1,3 @@
 *.pyc
-.idea/
+/.idea/
+/conf/private_settings.py
