@@ -9,3 +9,8 @@ Values are written to ThingSpeak.com (default) or local RRD database.
 
 ## Note
 In [db/](db/) and [www/](www/) you will find files related to RRD database
+
+## Technology stack
+#python, #rest, #rrd, #bash
+
+
